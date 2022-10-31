@@ -13,4 +13,6 @@
 </div>
 
 <br><br>
+![Jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyungJiwoo&show_icons=true)
+<br><br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyungJiwoo)](https://github.com/MyungJiwoo/github-readme-stats)
