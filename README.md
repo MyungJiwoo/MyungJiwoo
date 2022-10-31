@@ -10,6 +10,5 @@
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
   <br><br>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyungJiwoos&layout=compact&theme=tokyonight)
-출처: https://eunhee-programming.tistory.com/244
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyungJiwoo)](https://github.com/MyungJiwoo/github-readme-stats)
 </div>
