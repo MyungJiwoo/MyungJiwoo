@@ -21,5 +21,5 @@
 <br><br>
 <h3> 🥬 Certificate 🥦 </h3>
 <ul>
-  <li>SQLD / 한국데이터산업진흥원 / 2022.06</li>
+  <li>SQLD / 2022.06</li>
 </ul>
