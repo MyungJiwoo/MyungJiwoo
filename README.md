@@ -24,10 +24,12 @@
 
 <br><br>
 <h3> 🏁 Stats 🏁 </h3>
-
-![Jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyungJiwoo&show_icons=true)
-<br><br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyungJiwoo)](https://github.com/MyungJiwoo/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MyungJiwoo&show_icons=true&theme=graywhite" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyungJiwoo&langs_count=10&layout=compact&theme=graywhite" />
+</a>
 
 
 <br><br>
