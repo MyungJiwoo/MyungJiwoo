@@ -31,6 +31,10 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyungJiwoo&langs_count=10&layout=compact&theme=graywhite" />
 </a>
+  
+<br><br>
+<h3> 🏁 Awards 🏁 </h3>
+<p>🥉 Mediger / 2022.11</p>
 
 
 <br><br>
