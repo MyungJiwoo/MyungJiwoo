@@ -1,4 +1,3 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=3A6351&height=250&section=header&text=🐌%20mongdiwoo%20🐌&fontSize=40&animation=fadeIn&fontColor=F2EDD7) -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=red&height=200&section=header&text=🐌%20mongdiwoo%20🐌&fontSize=0)
 
 <div align="center">
