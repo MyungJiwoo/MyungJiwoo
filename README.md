@@ -40,9 +40,7 @@
 <h3> 🏁 Certificate 🏁 </h3>
 <p>👩‍💻 SQLD / 2022.06</p>
 <p>👩‍💻 Web Design / 2022.12</p>
-<!-- <ul>
-  <li style="list-style: none;">SQLD / 2022.06</li>
-</ul> -->
+<p>👩‍💻 Coding Specialist, Advanced / 2023.1</p>
   
 </div>
 
