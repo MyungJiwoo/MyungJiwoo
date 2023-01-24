@@ -21,7 +21,7 @@
  </div>
 
 
-<br><br>
+<!-- <br><br>
 <h3> 🏁 Stats 🏁 </h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MyungJiwoo&show_icons=true&theme=graywhite" />
@@ -29,7 +29,7 @@
 <br><br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyungJiwoo&langs_count=10&layout=compact&theme=graywhite" />
-</a>
+</a> -->
   
 <br><br>
 <h3> 🏁 Awards 🏁 </h3>
