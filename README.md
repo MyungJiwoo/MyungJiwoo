@@ -34,6 +34,7 @@
 <br><br>
 <h3> 🏁 Awards 🏁 </h3>
 <p>🥉 Mediger / 2022.11</p>
+<p>🎖️ Skhuming / 2023.11</p>
 
 
 <br><br>
