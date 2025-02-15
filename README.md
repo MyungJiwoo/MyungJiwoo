@@ -1,1 +1,1 @@
-![Frame 3](https://github.com/Happy-Dreaming/dreaming/assets/63100324/11947be1-94f0-4210-b487-d608fe810f19)
+![myungjiwoo_readme](https://github.com/user-attachments/assets/1f548dff-34c1-4cf2-ac9c-936fcd8d45f7)
